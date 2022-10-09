@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.pdb
+E:\Ex1\Ex1\bin\Debug\Ex1.exe.config
+E:\Ex1\Ex1\bin\Debug\Ex1.exe
+E:\Ex1\Ex1\bin\Debug\Ex1.pdb
+E:\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+E:\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+E:\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+E:\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+E:\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+E:\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+E:\Ex1\Ex1\obj\Debug\Ex1.exe
+E:\Ex1\Ex1\obj\Debug\Ex1.pdb
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+D:\Ex1\Ex1\bin\Debug\Ex1.exe.config
+D:\Ex1\Ex1\bin\Debug\Ex1.exe
+D:\Ex1\Ex1\bin\Debug\Ex1.pdb
+D:\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+D:\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+D:\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+D:\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+D:\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+D:\Ex1\Ex1\obj\Debug\Ex1.exe
+D:\Ex1\Ex1\obj\Debug\Ex1.pdb
+I:\Ex1\Ex1\bin\Debug\Ex1.exe.config
+I:\Ex1\Ex1\bin\Debug\Ex1.exe
+I:\Ex1\Ex1\bin\Debug\Ex1.pdb
+I:\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+I:\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+I:\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+I:\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+I:\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+I:\Ex1\Ex1\obj\Debug\Ex1.exe
+I:\Ex1\Ex1\obj\Debug\Ex1.pdb
+I:\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+I:\диплом\Ex1\Ex1\bin\Debug\Ex1.exe.config
+I:\диплом\Ex1\Ex1\bin\Debug\Ex1.exe
+I:\диплом\Ex1\Ex1\bin\Debug\Ex1.pdb
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.exe
+I:\диплом\Ex1\Ex1\obj\Debug\Ex1.pdb
+E:\__\диплом\Ex1\Ex1\bin\Debug\Ex1.exe.config
+E:\__\диплом\Ex1\Ex1\bin\Debug\Ex1.exe
+E:\__\диплом\Ex1\Ex1\bin\Debug\Ex1.pdb
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.csproj.CopyComplete
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.exe
+E:\__\диплом\Ex1\Ex1\obj\Debug\Ex1.pdb

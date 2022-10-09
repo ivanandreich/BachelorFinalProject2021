@@ -1,0 +1,55 @@
+D:\Ex2\Ex2\bin\Debug\Ex2.exe.config
+D:\Ex2\Ex2\bin\Debug\Ex2.exe
+D:\Ex2\Ex2\bin\Debug\Ex2.pdb
+D:\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+D:\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+D:\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+D:\Ex2\Ex2\obj\Debug\Ex2.exe
+D:\Ex2\Ex2\obj\Debug\Ex2.pdb
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\User\Desktop\VxF click tracks\учёба\Ex2\Ex2\obj\Debug\Ex2.pdb
+D:\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+D:\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\Ex2\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+I:\Ex2\Ex2\bin\Debug\Ex2.exe.config
+I:\Ex2\Ex2\bin\Debug\Ex2.exe
+I:\Ex2\Ex2\bin\Debug\Ex2.pdb
+I:\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+I:\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+I:\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+I:\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+I:\Ex2\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+I:\Ex2\Ex2\obj\Debug\Ex2.exe
+I:\Ex2\Ex2\obj\Debug\Ex2.pdb
+I:\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+I:\диплом\Ex2\Ex2\bin\Debug\Ex2.exe.config
+I:\диплом\Ex2\Ex2\bin\Debug\Ex2.exe
+I:\диплом\Ex2\Ex2\bin\Debug\Ex2.pdb
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.exe
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.pdb
+I:\диплом\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\bin\Debug\Ex2.exe.config
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\bin\Debug\Ex2.exe
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\bin\Debug\Ex2.pdb
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.csproj.SuggestedBindingRedirects.cache
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.exe
+D:\разное\с белой флешки\Final Project\Ex2\Ex2\obj\Debug\Ex2.pdb
